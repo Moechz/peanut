@@ -75,7 +75,7 @@
   "github_repo": "peanut",
   "upstream_version": "6.0.0",
   "release_tag_prefix": "v",
-  "version": "6.0.0-1",
+  "version": "6.0.0-2",
   "help": "https://github.com/Moechz/peanut/issues",
   "official": "https://github.com/Brandawg93/PeaNUT",
   "license": "MIT",
